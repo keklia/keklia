@@ -1,4 +1,4 @@
-![Kiwi](./images/kiwi.jpg)
+![Kiwi](./images/kiwi.jpg=250x250)
 
 * Hey there! My name is Cecilia Sun (she/her). 
 * I'm an incoming sophomore at Yale majoring in mathematics \& humanities. 
