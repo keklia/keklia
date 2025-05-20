@@ -1,4 +1,4 @@
-![image](images/kiwi.HEIC)
+![image](./images/kiwi.HEIC)
 
 * Hey there! My name is Cecilia Sun (she/her). 
 * I'm an incoming sophomore at Yale majoring in mathematics \& humanities. 
